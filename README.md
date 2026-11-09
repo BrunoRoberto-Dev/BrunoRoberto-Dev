@@ -1,53 +1,78 @@
-## Delivery pipeline
+<h1 align="center">Olá, eu sou Bruno Roberto 👋</h1>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=brunoroberto-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65191312%3Fu%3Dd98ee396ac8ea17b9e18cd85f94d09539f4f47d4%26v%3D4" alt="brunoroberto-dev hero visual" />
+  Desenvolvedor Full Stack com foco em Laravel, PHP, JavaScript e PostgreSQL
 </p>
-
-**Bruno Lima** · Frontend or full-stack engineer
-
-## Operating principles
-
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = Curitiba-PR
-PUBLIC_REPOS = 5
-COMMUNITY   = 10 followers</code></pre>
-
-Full Stack Developer focused on Laravel and Vue.js.
-
-## Uptime in motion
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=brunoroberto-dev&theme=github-dark" alt="brunoroberto-dev contribution activity" />
+  <a href="https://brunoroberto-dev.github.io/Portifolio/">Portfólio</a>
+  ·
+  <a href="https://br.linkedin.com/in/brunorobertodev">LinkedIn</a>
+  ·
+  <a href="mailto:brunorobertodev@hotmail.com">E-mail</a>
 </p>
 
-## Service signals
+## Sobre mim
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=brunoroberto-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65191312%3Fu%3Dd98ee396ac8ea17b9e18cd85f94d09539f4f47d4%26v%3D4" alt="brunoroberto-dev stats visual" />
+Sou formado em Ciência da Computação e desenvolvedor full stack. Crio sites e sistemas web, trabalhando da experiência visual e das interfaces até as regras de negócio e os dados.
+
+Meu foco principal está no ecossistema <strong>PHP/Laravel</strong>, com <strong>JavaScript</strong> e <strong>PostgreSQL</strong>. Também desenvolvi projetos com Flutter, Dart e Firebase, além de aplicações de estudo com React, Node.js e TypeScript.
+
+## Tecnologias
+
+<strong>Principal</strong>
+
+<p>
+  <code>PHP</code>
+  <code>Laravel</code>
+  <code>JavaScript</code>
+  <code>PostgreSQL</code>
+  <code>Blade</code>
+  <code>HTML</code>
+  <code>CSS</code>
 </p>
 
-<p><code>310 contributions</code> · <code>16 day streak</code></p>
+<strong>Interfaces e ferramentas</strong>
 
-## Infrastructure shipped
-
-- **[meu_foco_total](https://github.com/BrunoRoberto-Dev/meu_foco_total)** — É um pequeno projeto de TCC com o objetivo de criar um aplicativo chamado &quot;Meu Foco Total&quot;. O &quot;Meu Foco Total&quot; foi desenvolvido para ajudar as pessoas a aprimorar sua concentração e produtividade em um mundo cada vez mais repleto de distrações digitais.  · ⭐ 0
-- **[Portifolio](https://github.com/BrunoRoberto-Dev/Portifolio)** — Featured public work · ⭐ 1
-
-## Platform toolkit
-
-<p><code>brunoroberto-dev@github:~$ toolbox --list</code></p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=brunoroberto-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65191312%3Fu%3Dd98ee396ac8ea17b9e18cd85f94d09539f4f47d4%26v%3D4" alt="brunoroberto-dev stack visual" />
+<p>
+  <code>Bootstrap</code>
+  <code>Tailwind CSS</code>
+  <code>Vite</code>
+  <code>Git</code>
+  <code>GitHub</code>
 </p>
 
-## Keep it moving
+<strong>Outros projetos</strong>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=brunoroberto-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65191312%3Fu%3Dd98ee396ac8ea17b9e18cd85f94d09539f4f47d4%26v%3D4" alt="brunoroberto-dev social visual" />
+<p>
+  <code>Flutter</code>
+  <code>Dart</code>
+  <code>Firebase</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>TypeScript</code>
 </p>
 
-<a href="https://github.com/brunoroberto-dev">GitHub</a> · <a href="https://brunoroberto-dev.github.io/Portifolio/index.html">Website</a>
+## Projetos em destaque
 
-<p align="center"><sub>Bruno Lima · DevOps</sub></p>
+### [Budget Analyzer](https://github.com/BrunoRoberto-Dev/Budget-Analyzer-Updates)
+
+Aplicativo desktop voltado à análise e comparação de orçamentos clínicos, com importação por planilhas, indicadores financeiros e exportação de relatórios em Excel e PDF. O repositório público funciona como canal oficial de distribuição e atualizações; o código-fonte não é publicado.
+
+### [Portfólio em Laravel](https://github.com/BrunoRoberto-Dev/Portifolio-Laravel)
+
+Versão do meu portfólio desenvolvida com Laravel 12 e Blade, usando Vite, Tailwind CSS e Bootstrap. Inclui uma área interna para gerenciamento e publicação de conteúdo.
+
+### [Meu Foco Total](https://github.com/BrunoRoberto-Dev/meu_foco_total)
+
+Aplicativo de TCC criado para ajudar na concentração e na produtividade. Desenvolvido com Flutter e Dart, com integração ao Firebase para autenticação.
+
+### [Portfólio](https://github.com/BrunoRoberto-Dev/Portifolio)
+
+Portfólio web desenvolvido com HTML, CSS e JavaScript, reunindo minha apresentação profissional e projetos realizados.
+
+## Contato
+
+- [LinkedIn](https://br.linkedin.com/in/brunorobertodev)
+- [Portfólio](https://brunoroberto-dev.github.io/Portifolio/)
+- [E-mail](mailto:brunorobertodev@hotmail.com)
