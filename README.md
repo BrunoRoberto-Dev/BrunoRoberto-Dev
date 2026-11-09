@@ -50,4 +50,4 @@ Full Stack Developer focused on Laravel and Vue.js.
 
 <a href="https://github.com/brunoroberto-dev">GitHub</a> · <a href="https://brunoroberto-dev.github.io/Portifolio/index.html">Website</a>
 
-<p align="center"><sub>Bruno Lima · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Bruno Lima · DevOps</sub></p>
